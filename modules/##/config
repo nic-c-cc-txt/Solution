@@ -1,0 +1,4 @@
+[remote "BUG"]
+	url = C:\\Program Files\\Git\\bin\\git.exe
+[remote "$$"]
+	url = https://github.com/sollo13/Solution.git
